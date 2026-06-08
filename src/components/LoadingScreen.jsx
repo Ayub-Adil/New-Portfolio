@@ -113,7 +113,7 @@ export default function LoadingScreen({ onComplete }) {
               }}
             >
               <img
-              src="public/ayub-photo.png"
+              src="/ayub-logo.png"
               alt="Profile"
               className="w-12 h-12 rounded-full object-cover"
             />
