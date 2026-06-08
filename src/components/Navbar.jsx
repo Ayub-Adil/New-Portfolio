@@ -86,7 +86,7 @@ export default function Navbar({ isDark, toggleTheme }) {
             }}
           >
             <img
-              src="public/ayub-photo.png"
+              src="/ayub-photo.png"
               alt="Profile"
               className="w-7 h-7 rounded-full object-cover"
             />
