@@ -12,7 +12,7 @@ const achievements = [
     icon: '💻',
     year: '2026',
     comingSoon: false,
-    certificateImage: '/public/Pinnacle Lab Certificate.jpg'
+    certificateImage: '/Pinnacle-Lab-Certificate.jpg'
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ const achievements = [
     icon: '🎨',
     year: '2026',
     comingSoon: false,
-    certificateImage: '/public/future intern certificate.jpg'
+    certificateImage: '/future-intern-certificate.jpg'
   },
   {
     id: 3,
@@ -46,7 +46,7 @@ const achievements = [
     icon: '🥽',
     year: '2025',
     comingSoon: false,
-    certificateImage: '/public/AR_VR_cert.jpeg'
+    certificateImage: '/AR_VR_cert.jpeg'
   },
   {
     id: 5,
@@ -57,7 +57,7 @@ const achievements = [
     icon: '📜',
     year: '2026',
     comingSoon: false,
-    certificateImage: '/public/MD AYUB ADIL USMANI LoR.jpg',
+    certificateImage: '/LoR.jpg',
   },
 ]
 
