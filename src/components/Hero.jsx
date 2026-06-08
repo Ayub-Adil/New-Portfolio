@@ -257,7 +257,7 @@ export default function Hero({ isDark }) {
               >
                 {/* Replace src with actual photo path: /ayub-photo.jpg */}
                 <img
-                  src="public/ayub-photo.png"
+                  src="/ayub-photo.png"
                   alt="MD Ayub Adil Usmani"
                   className="w-full h-full object-cover"
                   onError={(e) => {
